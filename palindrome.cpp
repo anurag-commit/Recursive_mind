@@ -21,5 +21,5 @@ int main(){
         }
     }
     cout << "palindrome";
-    return 0;
+    return 0; //comment
 }
